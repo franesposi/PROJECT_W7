@@ -1,0 +1,15 @@
+body {
+  background-color: #001f3f;
+  color: #ffffff;
+}
+
+.navbar {
+  background-color: #003366;
+}
+
+.table-dark,
+.table-dark th,
+.table-dark td {
+  background-color: #2c3e50;
+  color: #ffffff;
+}
